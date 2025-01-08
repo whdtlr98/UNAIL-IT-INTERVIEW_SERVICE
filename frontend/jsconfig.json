@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      "@/*": ["./*"],
+      "@/common/*": ["./common/*"],
+      "@/interview/*": ["./interview/*"],
+      "@/login/*": ["./login/*"],
+      "@/mypage/*": ["./mypage/*"],
+      "@/userinfo/*": ["./userinfo/*"],
+      "@/board/*": ["./board/*"]
+    }
+  }
+}
